@@ -1,6 +1,0 @@
-framework module Pods_JSanchezEcommerce {
-  umbrella header "Pods-JSanchezEcommerce-umbrella.h"
-
-  export *
-  module * { export * }
-}
